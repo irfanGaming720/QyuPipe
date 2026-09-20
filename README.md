@@ -167,5 +167,5 @@ Upon a successful build (`BUILD SUCCESSFUL`), the output APK binaries are genera
 
 ## ⚖️ License & Acknowledgments
 
-- This project is developed as a non-commercial, open-source preservation effort for retro BlackBerry 10 devices.
+- This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 - Special thanks to the original [notPipe](https://github.com/gohoski/notPipe) project by gohoski, as well as the Invidious and Piped public API communities for their alternative YouTube backend services.
