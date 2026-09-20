@@ -127,5 +127,5 @@ Setelah proses kompilasi selesai, berkas APK bisa ditemukan di:
 
 ## ⚖️ Sumber Daya & Kredit
 
-- Proyek ini dibuat untuk menjaga perangkat lawas BlackBerry 10 tetap fungsional.
+- Proyek ini dirilis di bawah lisensi **MIT License** - lihat berkas [LICENSE](LICENSE) untuk detail lengkap.
 - Terima kasih banyak untuk proyek awal [notPipe](https://github.com/gohoski/notPipe) buatan gohoski, serta pengembang API publik Invidious dan Piped atas penyediaan backend alternatif YouTube.
